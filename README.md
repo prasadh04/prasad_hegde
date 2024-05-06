@@ -1,27 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prasad Hegde</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Prasad Hegde</h1>
-        <p>Software Test Engineer</p>
-    </header>
-    <section id="about-me">
-        <h2>About Me</h2>
-        <p>I'm passionate about ensuring software quality through comprehensive testing strategies and methodologies.</p>
-    </section>
-    <section id="tech-stacks">
-        <h2>Tech Stacks</h2>
-        <ul>
-            <li>Tools: Eclipse, Postman, PostgreSQL , Selenium, JIRA, Jenkins</li>
-            <li>Tech Skills: Test Automation(Selenium-Java), Functional Testing, Web application and Mobile application Testing</li>
-        </ul>
-    </section>
+![Background Banner](https://github.com/prasadh04/prasad_hegde/blob/main/Source/Background2.jpg)
+
+<img src="https://github.com/prasadh04/prasad_hegde/blob/main/Hand%20Wave.gif" width='40' align="left"/> <h2>Hey there! I'm Prasad Hegde</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Prasad Hegde -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;a passionate software test engineer dedicated to ensuring the quality and reliability of software products. With a keen eye for detail and a methodical approach to testing, I thrive on uncovering bugs, enhancing user experiences, and contributing to the overall success of projects.
+
+🔍 I have experience in both manual and automated testing across various platforms, including web and mobile applications. From developing test plans to executing test cases and reporting defects, I'm committed to maintaining rigorous testing standards throughout the STLC.
+
+🎓 Beyond testing, I'm enthusiastic about continuously improving my skills to deliver top-notch quality assurance solutions. I thrive in collaborative environments where teamwork and communication are key to achieving our testing goals.
+
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+
+
     <section id="github-analysis">
         <h2>GitHub Analysis</h2>
         <p>Coming soon...</p>
